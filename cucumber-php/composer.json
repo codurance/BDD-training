@@ -1,0 +1,25 @@
+{
+    "name": "codurance/cucumber-php",
+    "description": "Sample project to play with Behat",
+    "type": "project",
+    "require-dev": {
+        "behat/behat": "^3.12"
+    },
+    "license": "MIT",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codurance\\CucumberPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gildas Quéemener",
+            "email": "gildas.quemener@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
