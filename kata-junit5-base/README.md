@@ -1,4 +1,4 @@
-# Summary
+ # Summary
 When designing a big system, we like to base our design on the way that the system will be used. That way, user stories and acceptance criteria become much more than just a finish line: they are a guiding principle for the entire system.
 
 This solves a variety of problems. For example, it eliminates over-engineering (since we only write what we know the user needs). Starting at the public interface moves risk away from the end of the project (nobody wants an integration nightmare when deadline day is looming).
