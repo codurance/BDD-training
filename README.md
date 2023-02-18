@@ -11,6 +11,7 @@ Make sure all team members have write access to this and try not to look ahead a
 
 * Java base application with simple JUnit5, AssertJ and Mockito to be used during the first coding exercise
 * Java base application with Cucumber, JUnit5 and Mockito integrations ready, to be used during 2nd and 3rd exercise
+* Python base application with Cucumber (Behave) and Pytest. In addition, you have instructions to configure Visual Studio Code or PyCharm
 
 
 ## Notes
